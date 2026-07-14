@@ -1,0 +1,6 @@
+{
+  "name": "EIC",
+  "description": "EBADI INDUSTRIAL CONSULTANTS - Calculation application for material cross-section, weight per meter, speed, and production.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
